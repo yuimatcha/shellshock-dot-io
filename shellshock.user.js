@@ -11,6 +11,6 @@
 // ==/UserScript==
 
 var script = document.createElement('script');
-script.src = '//yuiistic.my.id/shellshock-dot-io/shellshock.min.js';
+script.src = '//yuimatcha.github.io/shellshock-dot-io/shellshock.min.js';
 script.type = 'text/javascript';
 document.body.appendChild(script);
